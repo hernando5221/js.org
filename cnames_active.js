@@ -62,7 +62,7 @@ var cnames_active = {
   "9932": "dannyzhan.github.io",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
-  "a6smile": "a6smile.github.io",
+  "a6smile": "a6smile.github.io
   "aakhilv": "aakhilv.github.io",
   "aalaap": "aalaap.github.io",
   "aaron": "57aaron.github.io",
@@ -101,6 +101,7 @@ var cnames_active = {
   "affiliate": "russellsteadman.github.io/affiliate",
   "afilters": "dmytrohoi.github.io/afilters.js",
   "afmsavage": "afmsavage.github.io",
+  "AgapeDavie":"hernando5221.github.io/perros",
   "agentnpm": "meetping.github.io/agentnpm",
   "aghasemi": "aghasemi.github.io",
   "agilecards": "otaklapka.github.io/agilecards",
